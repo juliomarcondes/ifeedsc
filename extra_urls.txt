@@ -1,0 +1,4 @@
+# Links diretos de editais (um por linha). Use quando a listagem do site nao for lida pelo script.
+# Os dois abaixo sao de tecnico integrado: o script vai ignora-los (serve de teste).
+https://www.ifsc.edu.br/documents/d/ingresso/edital-04_2027_1_tecnico_int_sorteio-3-
+https://www.ifsc.edu.br/documents/d/ingresso/edital-05_2027_1_tecnico_integrado_prova-ok-1-

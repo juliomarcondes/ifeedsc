@@ -1,0 +1,23 @@
+name: Atualizar feed IFSC
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 08:00 em Brasilia
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python ifsc_feed.py
+      - name: Commit do feed
+        run: |
+          git config user.name "ifsc-feed-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || (git commit -m "Atualiza feed" && git push)

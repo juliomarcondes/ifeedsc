@@ -1,0 +1,370 @@
+{
+  "processed": {
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_18_automacao_industrial_2027_1_lages": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T21:59:30.770857+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_19_educacao_ciencias_matematica_2027_1_jaragua_sul_centro": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T21:59:32.877977+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_20_ensino_le_educacao_basica_2027_1_garopaba": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T21:59:35.142234+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_21_educacao_ambiental_formacao_professores_2027_1_sao_jose": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T21:59:36.924506+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_22_lideranca_inovacao_organizacional_2027_1_gaspar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T21:59:38.904707+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-05_2027_1_tecnico_integrado_prova-ok-1-": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T21:59:42.435038+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/resultado-isencao-edital-05-2027-1_integrados": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T21:59:47.769040+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/atendimento_especial_integrado_publicar_ed05_2027-1-planilha1-2-": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T21:59:49.050450+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscricoes-validas-integrados_candidatos-para-a-aplicacao-de-prova_ec20271": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T21:59:52.557728+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/integrados_candidatos-aprovados_ec20271": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T21:59:53.532883+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-05-relacao-candidato-vaga-2027_1_integrado": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T21:59:54.770820+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-07_2027_1_tecnico_subsequente_prova-ok-1-": {
+      "status": "no_match",
+      "at": "2026-11-17T21:59:57.528875+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/resultado-isencao-edital-07-2027-1_subsequentes": {
+      "status": "no_match",
+      "at": "2026-11-17T21:59:59.610760+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/atendimento_especial_subsequentes_publicar_ed07_2027-1": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:00.694205+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscricoes-validas_subsequentes_candidatos-para-a-aplicacao-de-prova_ec20271": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:01.752920+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/subsequentes_candidatos-aprovados_ec20271": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:02.848182+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-07-relacao-candidato-vaga-2027_1_subsequentes": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:03.961788+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-04_2027_1_tecnico_int_sorteio-3-": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T22:00:06.254882+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio_edital-04_2027_1_tecnicos_integrados-ifsc": {
+      "status": "skip:integrado (url)",
+      "at": "2026-11-17T22:00:07.418689+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-06_2027_1_tecnico_sub_sorteio-1-": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:10.124191+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio_edital-06_2027_1_tecnicos-subsequentes-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:13.805464+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-08_2027_1_conc_sorteio-4-": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:16.173184+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio_edital-08_2027_1_tecnicos_concomitantes-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:17.242448+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-09_2027_1_proeja_qualificacao_profissional-ok-ordem-de-inscricao": {
+      "status": "match",
+      "at": "2026-11-17T22:00:18.799904+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-10_2027_1_proeja_qualificacao_profissional-ok-sorteio-1-": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:20.505501+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio_edital-10_2027_1_proeja_qualificacao-profissional-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:21.552478+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-11_2027_1_proeja_tecnico_sorteio-ok": {
+      "status": "skip:integrado (texto)",
+      "at": "2026-11-17T22:00:23.781939+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio_edital-11_2027_1_proeja_tecnico-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:25.051813+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-12_2027_1-vestibular-final": {
+      "status": "match",
+      "at": "2026-11-17T22:00:28.259765+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/isencoes-deferidas-vestibular-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:30.702408+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/condicoes-especiais-deferidas-vestibular-ifsc": {
+      "status": "match",
+      "at": "2026-11-17T22:00:32.262004+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/7-inscricoes-deferidas-definitivas-geral-ifsc-vest26-27": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:34.812558+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/8-inscricoes-indeferidas-ifsc-vest26-27": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:36.417876+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/6-locais-de-prova-ifsc-vest26-27": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:41.375268+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/relacao-candidato-vaga-if2701-deferidas-16-11-2026": {
+      "status": "match",
+      "at": "2026-11-17T22:00:42.754889+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-23_2026_2-graduacao-uab": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:46.139928+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_01_mpca_2027_1_florianopolis_itajai": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:00:48.564227+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_01_202_1_mpca_homologadas": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:49.581971+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_01_2027_1_mpca_homologadas_apos_recursos": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:50.595079+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_01_2027_1_mpca_homologadas_apos_recursos_resultado_analise_curriculo": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:00:51.951080+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscricoes_aptas_prova_escrita_deing_01_2027_pcam-docx_assinado": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:00:53.107207+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_01_2027_1_resultado_prova": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:54.426018+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_01_2027_1_aprovados_etapa2": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:55.321710+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_02_mppr_2027_1": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:00:58.056414+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_02_2027_1_mppr_resultados_1": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:58.985508+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_02_2027_1_mppr_resultado_final_etapa_1": {
+      "status": "no_match",
+      "at": "2026-11-17T22:00:59.923312+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-02-mppr_entrevistas_convocacao": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:00.507371+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_03_mpsee_2027_1": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:02.601735+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_03_2027_1_mpsee_resultado_1": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:03.857176+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_03_2027_1_mpsee_resultado_final_etapa_1": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:05.269797+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_03_entrevistas": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:06.132427+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_03_entrevistas_lista_de_espera-ret": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:07.538494+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_13_ensino_ciencias_matematica_ead__2027_1_floripa_centro-1": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:09.398707+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_14_computacao_cientifica_industria_2027_1_floripa_centro": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:11.533676+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_15_aprendizagem_ativa_metodologias_2027_1_ararangua": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:13.418777+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_16_ciencias_marinhas_aplicadas_ensino_2027_1_itajai": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:15.275255+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_16_resultado_preliminar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:16.144080+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_17_pesquisa_pratica_pedagogica_2027_1_gaspar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:18.206084+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-12_2026_2_qualificacao_profissional-ciclo_1-odt": {
+      "status": "match",
+      "at": "2026-11-17T22:01:20.663362+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio-edital-12_2026_2_qualificacao_profissional-ifsc-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:22.107049+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-13_2026_2_idiomas-sorteio-ciclo_1-odt": {
+      "status": "match",
+      "at": "2026-11-17T22:01:24.330193+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio-edital-13_2026_2_qualificacao_profissional_idiomas-ifsc-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:26.749793+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-20_2026_2_idiomas-sorteio-ciclo_2": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:28.379247+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/numero-para-sorteio_edital-20_2026_2-idiomas-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:29.302214+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-22_2026_2_qualificacao_profissional-ciclo_2": {
+      "status": "match",
+      "at": "2026-11-17T22:01:31.109880+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/numero-para-sorteio_edital-22_2026_2-1-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:33.483279+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-24_2026_2_qualificacao_profissional_sorteio-ciclo_3": {
+      "status": "match",
+      "at": "2026-11-17T22:01:35.130248+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-para-sorteio-edital-24_2026_2_qualificacao_profissional-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:36.373930+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-25_2026_2_idiomas-sorteio-ciclo_3": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:37.997227+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-14_2026_2_qualificacao_ordem-de-inscricao_ciclo_1-odt": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:39.890792+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-ordem-de-inscricao_-edital-14_2026_2_qualificacao_profissional-ifsc-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:41.480042+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-15_2026_2_idiomas_ordem-de-inscricao_ciclo_1-odt": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:45.681987+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-ordem-de-inscricao_-edital-15_2026_2_qualificacao_profissional-idiomas-google-planilhas-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:46.738156+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-21_2026_2_idiomas_ordem-de-inscricao_ciclo_2": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:48.413439+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/lista-de-candidatos-inscritos_edital-21_2026_2_por-ordem-de-inscricao-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:49.560789+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-26_2026_2_qualificacao_ordem-de-inscricao_ciclo_3": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:51.197379+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-ordem-de-inscricao_-edital-26_2026_2_qualificacao_profissional-pdf": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:52.111209+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital-27_2026_2_idiomas_ordem-de-inscricao_ciclo_3": {
+      "status": "no_match",
+      "at": "2026-11-17T22:01:53.739882+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-ordem-de-inscricao_-edital-27_2026_2_qualificacao_profissional_idiomas-ifsc-pdf": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-17T22:01:54.850085+00:00"
+    }
+  },
+  "items": [
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/edital-09_2027_1_proeja_qualificacao_profissional-ok-ordem-de-inscricao",
+      "title": "[FIC] Edital 09/DEING/2027/1 - Criciúma: tecnologia",
+      "description": "Edital 09/DEING/2027/1 (FIC) - Criciúma\n- Criciúma: Criciúma https://limesurvey.ifsc.edu.br/index.php/851588?lang=pt-BR\nInscrições (primeiro período de datas do edital): 28/09 a 06/11/2026. Confira no PDF.\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:00:18.799151+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/edital-12_2027_1-vestibular-final",
+      "title": "[Curso] Edital edital-12_2027_1-vestibular-final - Criciúma, Tubarão: tecnologia",
+      "description": "Edital edital-12_2027_1-vestibular-final (Curso) - Criciúma, Tubarão\n- Criciúma: Criciúma https://limesurvey.ifsc.edu.br/index.php/582392?lang=pt-BR\n- Tubarão: Tubarão https://limesurvey.ifsc.edu.br/index.php/777319?lang=pt-BR\n- Tubarão: CST em Análise e Desenvolvimento de Sistemas Noturno 6 semestres 20 10 2 1 1 1 2 0 1 2\nInscrições (primeiro período de datas do edital): 28/09 a 22/10/2026. Confira no PDF.\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:00:28.258908+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/condicoes-especiais-deferidas-vestibular-ifsc",
+      "title": "[Curso] Edital 12/DEING/2027/1 - Tubarão: tecnologia",
+      "description": "Edital 12/DEING/2027/1 (Curso) - Tubarão\n- Tubarão: TUBARÃO - CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS -\n- Tubarão: MARIA CECILIA ABRUNHOSA DA SILVA NOVAES DE SOUZA GAROPABA - CST EM SISTEMAS PARA INTERNET - NOTURNO\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:00:32.261102+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/relacao-candidato-vaga-if2701-deferidas-16-11-2026",
+      "title": "[Curso] Edital 12/DEING/2027/1 - Tubarão: tecnologia",
+      "description": "Edital 12/DEING/2027/1 (Curso) - Tubarão\n- Tubarão: CST em Análise e Desenvolvimento de Sistemas\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:00:42.754073+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/edital-12_2026_2_qualificacao_profissional-ciclo_1-odt",
+      "title": "[FIC] Edital 12/DEING/2026/2 - Criciúma: tecnologia",
+      "description": "Edital 12/DEING/2026/2 (FIC) - Criciúma\n- Criciúma: Criciúma https://limesurvey.ifsc.edu.br/index.php/755158?lang=pt-BR\n- Criciúma: conhecimentos básicos em informática e noções de software\nInscrições (primeiro período de datas do edital): 16/06 a 06/07/2026. Confira no PDF.\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:01:20.661332+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/edital-13_2026_2_idiomas-sorteio-ciclo_1-odt",
+      "title": "[FIC] Edital 13/DEING/2026/2 - Criciúma, Tubarão: tecnologia",
+      "description": "Edital 13/DEING/2026/2 (FIC) - Criciúma, Tubarão\n- Criciúma: Criciúma https://limesurvey.ifsc.edu.br/index.php/755158?lang=pt-BR\n- Tubarão: Tubarão https://limesurvey.ifsc.edu.br/index.php/761958?lang=pt-BR\n- Tubarão: https://limesurvey.ifsc.edu.br/ index.php/198593\n- Tubarão: https://limesurvey.ifsc.edu.br/ index.php/871184?lang=pt-BR\nInscrições (primeiro período de datas do edital): 16/06 a 06/07/2026. Confira no PDF.\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:01:24.329203+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/edital-22_2026_2_qualificacao_profissional-ciclo_2",
+      "title": "[FIC] Edital 22/DEING/2026/2 - Criciúma: tecnologia",
+      "description": "Edital 22/DEING/2026/2 (FIC) - Criciúma\n- Criciúma: Criciúma https://limesurvey.ifsc.edu.br/index.php/528346?lang=pt-BR\n- Criciúma: conhecimentos básicos em informática e noções básicas de\nInscrições (primeiro período de datas do edital): 11/08 a 31/08/2026. Confira no PDF.\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:01:31.108937+00:00"
+    },
+    {
+      "url": "https://www.ifsc.edu.br/documents/d/ingresso/edital-24_2026_2_qualificacao_profissional_sorteio-ciclo_3",
+      "title": "[FIC] Edital 24/DEING/2026/2 - Tubarão: tecnologia",
+      "description": "Edital 24/DEING/2026/2 (FIC) - Tubarão\n- Tubarão: Tubarão h ttps://limesurvey.ifsc.edu.br/index.php/724476?lang=pt-BR\n- Tubarão: Curso Vagas totais Turno Período Carga Horária Pré-requisitos Programação\n- Tubarão: Programação Básica em ADVPL 40 Noturno (presencial) De outubro a dezembro de 2026 40 horas Idade mínima de 16 anos e noções básicas de informática\nInscrições (primeiro período de datas do edital): 07/10 a 27/10/2026. Confira no PDF.\nInscrição: https://sistemadeingresso.ifsc.edu.br/",
+      "found": "2026-11-17T22:01:35.129220+00:00"
+    }
+  ]
+}

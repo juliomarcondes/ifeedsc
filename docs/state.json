@@ -315,6 +315,22 @@
     "https://www.ifsc.edu.br/documents/d/ingresso/inscritos-ordem-de-inscricao_-edital-27_2026_2_qualificacao_profissional_idiomas-ifsc-pdf": {
       "status": "skip:selecao de pessoal/pos",
       "at": "2026-11-17T22:01:54.850085+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_23_cultura_sociobioversidade_gastronomia_2027_1_fpolis_continente": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-20T18:59:22.663442+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_24_tec_educacao_profissional_2027_1_fpolis_continente": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-20T18:59:24.491807+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_25_gestao_publica_ead_2027_1_florianopolis_centro": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-20T18:59:26.354107+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_26_educacao_surdos_2027_1_palhoca_bilingue": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-20T18:59:28.058994+00:00"
     }
   },
   "items": [

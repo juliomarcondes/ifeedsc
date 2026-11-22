@@ -331,6 +331,18 @@
     "https://www.ifsc.edu.br/documents/d/ingresso/edital_26_educacao_surdos_2027_1_palhoca_bilingue": {
       "status": "skip:selecao de pessoal/pos",
       "at": "2026-11-20T18:59:28.058994+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/abstencao_subsequentes_edital_07_2027_1-planilha1": {
+      "status": "no_match",
+      "at": "2026-11-22T18:18:12.028442+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/2027-1-ec-sub-prova-titular-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-22T18:18:14.581722+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/subsequente_-_gabarito_preliminar_2027-1_-_prova_titular_-_ifsc_assinado": {
+      "status": "no_match",
+      "at": "2026-11-22T18:18:15.753299+00:00"
     }
   },
   "items": [

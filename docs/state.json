@@ -343,6 +343,42 @@
     "https://www.ifsc.edu.br/documents/d/ingresso/subsequente_-_gabarito_preliminar_2027-1_-_prova_titular_-_ifsc_assinado": {
       "status": "no_match",
       "at": "2026-11-22T18:18:15.753299+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/abstencao_vestibular_edital_12_2027_1-google-planilhas": {
+      "status": "no_match",
+      "at": "2026-11-23T22:29:40.183560+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/2027-1-vest-prova-titular-ifsc": {
+      "status": "no_match",
+      "at": "2026-11-23T22:29:43.643159+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/vestibular_-_gabarito_preliminar_2027-1_-_prova_titular_-_ifsc_assinado": {
+      "status": "no_match",
+      "at": "2026-11-23T22:29:44.684747+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/agenda_entrevistas_pcam_ingresso_2027_final-docx": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-23T22:29:46.224118+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_13_resultado_preliminar_biologia": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-23T22:29:47.518844+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_13_resultado_preliminar_fisica": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-23T22:29:48.879576+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_13_resultado_preliminar_matematica": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-23T22:29:50.403677+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_13_resultado_preliminar_quimica": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-23T22:29:51.719792+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_14_resultado_preliminar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-23T22:29:53.031184+00:00"
     }
   },
   "items": [

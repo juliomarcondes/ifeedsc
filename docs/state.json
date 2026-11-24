@@ -379,6 +379,30 @@
     "https://www.ifsc.edu.br/documents/d/ingresso/edital_14_resultado_preliminar": {
       "status": "skip:selecao de pessoal/pos",
       "at": "2026-11-23T22:29:53.031184+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_20_lista_sorteio_garopaba": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-24T21:00:45.580807+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_21_lista_sorteio_sao_jose": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-24T21:00:47.291015+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_22_lista_sorteio_gaspar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-24T21:00:49.072532+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_15_resultado_preliminar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-24T21:00:50.629502+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_16_resultado_final": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-24T21:00:51.802432+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_17_resultado_preliminar": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-24T21:00:53.196827+00:00"
     }
   },
   "items": [

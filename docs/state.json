@@ -403,6 +403,10 @@
     "https://www.ifsc.edu.br/documents/d/ingresso/edital_17_resultado_preliminar": {
       "status": "skip:selecao de pessoal/pos",
       "at": "2026-11-24T21:00:53.196827+00:00"
+    },
+    "https://www.ifsc.edu.br/documents/d/ingresso/edital_15_resultado_preliminar-ret-1": {
+      "status": "skip:selecao de pessoal/pos",
+      "at": "2026-11-25T20:24:34.971741+00:00"
     }
   },
   "items": [
